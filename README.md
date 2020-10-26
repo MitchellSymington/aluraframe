@@ -1,5 +1,10 @@
 # :notebook_with_decorative_cover: Instruções
 
+<p float="left"> 
+ <img height="520" src=".github/2020-10-26_125931.png"/>
+</p>
+
+
 ### :fire: Rodar os comandos abaixo:
 
 :one: Clonar projeto</br>
