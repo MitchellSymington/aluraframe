@@ -1,4 +1,4 @@
-<p float="center"> 
+<p align="center"> 
  <img height="100" src=".github/alura-dark-300.png"/>
 </p>
 
